@@ -65,8 +65,6 @@ import {
   STARS_COUNT,
   LATEST_STARS,
   CURRENT_CLASS,
-  USER_SELECTION_STAGE,
-  CURRENT_MODE,
 } from "../common/constants";
 import {
   Chapter as curriculamInterfaceChapter,
